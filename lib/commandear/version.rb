@@ -1,0 +1,3 @@
+module Commandear
+  VERSION = "0.0.1"
+end
